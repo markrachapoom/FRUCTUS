@@ -1,7 +1,7 @@
 # FRUCTUS
 Fruit app project from SwiftUI Masterclass I learned
 
-SWIFTUI MASTERCLASS
+SwiftUI MasterClass
 
 Website: https://swiftuimasterclass.com
 
